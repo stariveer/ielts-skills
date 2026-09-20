@@ -46,7 +46,7 @@ ielts-skills/
 | **主教练** | `/ielts` | 档案初始化、考期倒计时、备考复盘看板、智能路由 | 读取并维护 `data/profile.md` 与 `data/progress.md` |
 | **写作教练** | `/ielts-writing` | 四维评分 (TR/CC/LR/GRA)、句子级修改、目标分改写对比 | 报告归档至 `data/writing/`，流水追加至 `progress.md`，替换词写入 `paraphrases.md`，Anki 卡片追加至 `cards.md` |
 | **阅读教练** | `/ielts-reading` | T/F/NG 逻辑拆解、Heading 排除、同义替换提取 | 提取词汇合并入 `data/paraphrases.md`，错因记录入 `data/mistakes.md` |
-| **口语素材** | `/ielts-speaking` | 话题聚类、5 个万能故事覆盖 80% Part 2、Part 3 预测 | 万能故事与表达归档至 `data/speaking/`，口语卡片追加至 `cards.md` |
+| **口语素材** | `/ielts-speaking` | 题库更新、话题聚类、5 大万能故事覆盖 80% Part 2、Part 3 预测 | 万能故事归档至 `data/speaking/`，口语卡片追加至 `cards.md` |
 
 
 ---
@@ -77,7 +77,7 @@ AI：
 2. 输出高分重构改写版；
 3. 自动将报告落盘保存为 data/writing/2026-09-18_Task2_technology.md；
 4. 自动在 data/progress.md 追加流水并更新均分；
-5. 自动将优质改写表达追加至 data/paraphrases.md。
+5. 自动输出 Mochi / Anki 单行卡片并同步追加至 data/cards.md。
 ```
 
 ### 场景 4：分析阅读错题与词汇沉淀
@@ -89,6 +89,16 @@ AI：
 3. 自动将同义替换合并至 data/paraphrases.md；
 4. 易混逻辑陷阱追加至 data/mistakes.md。
 ```
+
+### 场景 5：换题季动态更新口语题库
+```text
+你：/ielts-speaking 这是新季度的口语题库 [上传 PDF 或粘贴题目]
+AI：
+1. 自动过滤水印与广告噪点，提取结构化题目与提示卡（You should say...）；
+2. 自动落盘保存为你本地工作区的 data/speaking/question_bank_YYYY_MM.md；
+3. 立即基于新题库重新进行 5 大万能故事映射与覆盖率测算。
+```
+
 
 ---
 
