@@ -31,6 +31,7 @@ ielts-skills/
 │       └── resources/          # 内置当季最新雅思口语题库
 ├── .agents/                    # 预置 Antigravity 工作区开箱即用配置 (skills -> ../skills)
 ├── .claude/                    # 预置 Claude Code 工作区开箱即用配置 (skills -> ../skills)
+├── AGENTS.md                   # AI 协作共识与架构开发准则
 ├── README.md                   # 安装指引与使用文档
 └── LICENSE                     # MIT License
 ```
