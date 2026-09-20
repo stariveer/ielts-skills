@@ -1,7 +1,7 @@
-# IELTS Claude Skills · 本地持久化版
+# IELTS Skills · 雅思备考 AI 私教系统（本地持久化版）
 
-> 一套跑在 Claude Code / Antigravity 上的雅思备考 AI 私教系统。
-> **支持本地跨会话记忆、数据持久化、自动做题归档与进度追踪，零多余依赖。**
+> 一套面向现代 AI Coding Agent（Claude Code、Antigravity、Cursor、Windsurf 等）的通用雅思备考私教系统。
+> **基于标准 Agent Skills 规范构建，支持本地跨会话记忆、数据持久化、自动做题归档、Mochi/Anki 卡片生成与真题联动，零多余依赖。**
 
 ---
 
@@ -104,13 +104,28 @@ AI：
 
 ## 安装与配置
 
-若在全局 Claude Code 中使用，复制目录到 skills 路径：
+本系统完全遵循开放的 **Agent Skills** 规范构建，任何具备文件读写与命令工具的智能体终端均可即插即用：
+
+### 1. Claude Code
+复制技能目录到全局技能路径：
 ```bash
-# Mac / Linux
 cp -r ielts ielts-writing ielts-reading ielts-speaking ~/.claude/skills/
 ```
 
-数据文件将直接保存在当前工作空间的 `data/` 目录中，可直接配合 Git 进行多端同步。
+### 2. Google Antigravity
+复制到个人全局配置目录（全局生效）或当前备考工作区：
+```bash
+# 全局生效
+cp -r ielts ielts-writing ielts-reading ielts-speaking ~/.gemini/config/skills/
+
+# 或在当前工作区生效
+mkdir -p .agents/skills && cp -r ielts* .agents/skills/
+```
+
+### 3. Cursor / Windsurf / 其他 Agentic AI 终端
+直接将项目内的 Skills 文件夹复制到你的个人备考工作区根目录，或在系统的 Custom Instructions / Rules 中引入对应 `SKILL.md` 指令即可。
+
+> **💡 数据归档说明**：技能启动后，数据文件（`data/`）将自动保存在你执行命令的当前工作空间中，可直接配合 Git 进行多端安全同步。
 
 ---
 
