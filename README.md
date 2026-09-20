@@ -29,9 +29,12 @@ ielts-skills/
 │   ├── ielts-reading/          # 阅读精读（逻辑拆解、同义替换提取、自动沉淀）
 │   └── ielts-speaking/         # 口语素材（5大万能故事、Part 3 预测、内置当季真题题库）
 │       └── resources/          # 内置当季最新雅思口语题库
+├── .agents/                    # 预置 Antigravity 工作区开箱即用配置 (skills -> ../skills)
+├── .claude/                    # 预置 Claude Code 工作区开箱即用配置 (skills -> ../skills)
 ├── README.md                   # 安装指引与使用文档
 └── LICENSE                     # MIT License
 ```
+
 
 
 > **💡 关于数据持久化目录 `data/`（代码与状态彻底解耦）：**  
@@ -104,35 +107,25 @@ AI：
 
 ---
 
-## 安装与配置
+## 快速开始（工作区开箱即用）
 
-本系统完全遵循开放的 **Agent Skills** 规范构建，任何具备文件读写与命令工具的智能体终端均可即插即用：
+本项目专为**个人雅思独立备考工作区**设计，核心原则是**数据留在当前工作区，不污染系统全局环境**。仓库已内置各主流智能体的工作区自动发现配置，**Clone 本仓库后即可直接就地使用，无需任何安装配置**：
 
-### 1. Claude Code
-将技能一键平铺复制到用户全局技能路径：
+### 1. 克隆仓库并作为你的专属备考目录
 ```bash
-cp -r skills/* ~/.claude/skills/
+git clone https://github.com/stariveer/ielts-skills.git my-ielts-study
+cd my-ielts-study
 ```
 
-### 2. Google Antigravity
-复制到个人全局配置目录（全局生效）或当前备考工作区：
-```bash
-# 全局生效
-cp -r skills/* ~/.gemini/config/skills/
+### 2. 唤醒私教系统
+- **Google Antigravity 用户**：直接在 IDE 聊天窗口中输入 `/ielts`（仓库已内置 `.agents/` 工作区配置，原生秒级唤起）；
+- **Claude Code 用户**：在终端启动 `claude` 并输入 `/ielts`（仓库已内置 `.claude/` 工作区配置，就地秒级唤起）；
+- **Cursor / Windsurf / Aider 用户**：在对话中通过 `@skills/ielts/SKILL.md` 直接调用；
+- **GitHub Copilot / OpenAI 用户**：在 `.github/copilot-instructions.md` 中引用 `skills/` 即可。
 
-# 或在当前工作区生效
-mkdir -p .agents/skills && cp -r skills/* .agents/skills/
-```
+> **💡 关于个人数据（data/）**：  
+> 首次唤醒 `/ielts` 后，系统会自动在当前工作区内初始化并维护属于你的私有 `data/` 目录（包含档案 `profile.md`、进度 `progress.md`、错题 `mistakes.md`、Anki 题库 `cards.md` 等），所有个人练习数据与隐私完全留存在当前工作区，不外泄、不全局污染。
 
-### 3. Cursor / Windsurf
-将 `skills/` 目录直接复制到你的个人备考工作区根目录，或在系统 Rules / Custom Instructions 中引入对应 `SKILL.md` 指令即可。
-
-### 4. GitHub Copilot / OpenAI / Aider
-对于基于 OpenAI Codex / GPT-4o 等模型的智能体终端：
-- **方式 A（工作区全局生效）**：在你的个人备考工作区根目录新建 `.github/copilot-instructions.md`，直接指引模型执行 `skills/` 下的各技能规则；
-- **方式 B（按需定向调用）**：在对话中通过 `@SKILL.md`（例如：`@skills/ielts-writing/SKILL.md 帮我批改这篇大作文`），模型即可自动加载官方四维评分标尺、修改原则与 Mochi/Anki 卡片生成协议。
-
-> **💡 数据归档说明**：无论使用何种 Agent 终端，技能启动后，生成的考鸭个人数据（`data/`）将自动保存在你当前执行命令的工作空间中，既保障隐私又支持 Git 多端同步。
 
 ---
 
