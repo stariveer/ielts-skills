@@ -1,0 +1,121 @@
+# IELTS Claude Skills · 本地持久化版
+
+> 一套跑在 Claude Code / Antigravity 上的雅思备考 AI 私教系统。
+> **支持本地跨会话记忆、数据持久化、自动做题归档与进度追踪，零多余依赖。**
+
+---
+
+## 核心特性
+
+- **跨会话持久化记忆**：所有目标、分数、练习历史全量保存在项目本地 `data/` 目录中，告别“每次对话独立”；
+- **智能开场与考期倒计时**：每次唤醒 `/ielts`，AI 自动读取考生档案，智能汇报剩余备考天数与阶段战况；
+- **写作批改自动归档**：使用 `/ielts-writing` 批改后，报告自动全文落盘保存至 `data/writing/`，并将分数和评语追加进流水账；
+- **阅读同义替换自动沉淀**：使用 `/ielts-reading` 分析错题后，提炼的替换词对自动合并至 `data/paraphrases.md`；
+- **错题与陷阱本沉淀**：高频逻辑陷阱、审题硬伤自动追加至 `data/mistakes.md`；
+- **Mochi / Anki 记忆卡片生成**：批改或练习后自动生成单行 Anki 卡片代码块并沉淀入 `data/cards.md`，支持无缝导入 Mochi 每日刷题；
+- **口语万能故事库**：使用 `/ielts-speaking` 生成的 5 大万能故事沉淀在 `data/speaking/`；
+- **真题刷题明细追踪**：与 `data/mock-score.md` 剑桥听力/阅读做题表无缝联动；
+- **轻量透明**：纯 Markdown + Git 管理，无需启动任何复杂的本地 Web 服务，无需数据库与 Node/Python 后端依赖。
+
+---
+
+## 目录结构
+
+```text
+ielts-claude-skills/
+├── data/
+│   ├── profile.md              # 考生档案（目标总分/单项、考试日期、当前基线、倒计时）
+│   ├── progress.md             # 备考总进展看板与每日训练流水账（自动累计已练篇数、平均分）
+│   ├── mistakes.md             # 错题与易错陷阱复盘本（阅读逻辑陷阱、写作语法/逻辑硬伤）
+│   ├── cards.md                # Mochi / Anki 专用单行记忆卡片库（拼写、搭配、句型直接导入）
+│   ├── paraphrases.md          # 跨会话累计沉淀的雅思核心同义替换词库
+│   ├── mock-score.md           # 剑桥真题刷题进度明细表（听力与阅读正确率/用时）
+│   ├── writing/                # 历次写作批改全量归档 (YYYY-MM-DD_TaskX_topic.md)
+│   └── speaking/               # 口语万能故事与高分素材库
+├── ielts/                      # 主教练入口（状态读取、倒计时、战报复盘、智能路由）
+├── ielts-writing/              # 写作教练（四维评分、改写对比、自动落盘归档、生成 Anki 卡片）
+├── ielts-reading/              # 阅读精读（逻辑拆解、同义替换提取、自动沉淀）
+├── ielts-speaking/             # 口语素材（5大万能故事、Part 3 追问预测、素材保存、生成口语卡片）
+├── README.md                   # 本说明文档
+└── LICENSE                     # MIT License
+```
+
+---
+
+## 4 个 Skill 分工
+
+| Skill | 命令 | 核心功能 | 本地数据持久化动作 |
+|---|---|---|---|
+| **主教练** | `/ielts` | 档案初始化、考期倒计时、备考复盘看板、智能路由 | 读取并维护 `data/profile.md` 与 `data/progress.md` |
+| **写作教练** | `/ielts-writing` | 四维评分 (TR/CC/LR/GRA)、句子级修改、目标分改写对比 | 报告归档至 `data/writing/`，流水追加至 `progress.md`，替换词写入 `paraphrases.md`，Anki 卡片追加至 `cards.md` |
+| **阅读教练** | `/ielts-reading` | T/F/NG 逻辑拆解、Heading 排除、同义替换提取 | 提取词汇合并入 `data/paraphrases.md`，错因记录入 `data/mistakes.md` |
+| **口语素材** | `/ielts-speaking` | 话题聚类、5 个万能故事覆盖 80% Part 2、Part 3 预测 | 万能故事与表达归档至 `data/speaking/`，口语卡片追加至 `cards.md` |
+
+
+---
+
+## 使用场景
+
+### 场景 1：日常启动与私教问候
+```text
+你：/ielts
+AI：欢迎回来！距离你的雅思考试（2026-11-20）还有 63 天。
+    当前目标：总分 7.0（听 7.5 / 读 7.5 / 写 6.0 / 说 6.0）。
+    目前写作已批改 3 篇（均分 6.0），同义替换库累计 86 组。
+    今天想练什么？
+    A. 批改/练习写作  B. 阅读精读分析  C. 口语万能故事  D. 查看备考战报
+```
+
+### 场景 2：查看备考全量战报与复盘
+```text
+你：查看进度（或输入「我的战报」「备考复盘」）
+AI：自动读取 data/ 目录中的各项数据，输出当前进度、写作分数走势、阅读薄弱题型与下一步战略建议。
+```
+
+### 场景 3：批改作文并自动归档
+```text
+你：/ielts-writing [粘贴题目与作文]
+AI：
+1. 给出官方四维评分与逐句批注；
+2. 输出高分重构改写版；
+3. 自动将报告落盘保存为 data/writing/2026-09-18_Task2_technology.md；
+4. 自动在 data/progress.md 追加流水并更新均分；
+5. 自动将优质改写表达追加至 data/paraphrases.md。
+```
+
+### 场景 4：分析阅读错题与词汇沉淀
+```text
+你：/ielts-reading [粘贴文章与错题，或说明剑桥真题编号]
+AI：
+1. 逐题逻辑拆解与推导链；
+2. 提取同义替换词对；
+3. 自动将同义替换合并至 data/paraphrases.md；
+4. 易混逻辑陷阱追加至 data/mistakes.md。
+```
+
+---
+
+## 安装与配置
+
+若在全局 Claude Code 中使用，复制目录到 skills 路径：
+```bash
+# Mac / Linux
+cp -r ielts ielts-writing ielts-reading ielts-speaking ~/.claude/skills/
+```
+
+数据文件将直接保存在当前工作空间的 `data/` 目录中，可直接配合 Git 进行多端同步。
+
+---
+
+## License
+
+[MIT](./LICENSE)
+
+随便用、随便改、随便商用。注明出处不强制但欢迎。
+
+---
+
+## 反馈与致谢
+
+- 欢迎提交 [Issue](https://github.com/stariveer/ielts-skills/issues) 或 Pull Request。
+- 本项目灵感与初始结构衍生自 [YANZHANLIN/ielts-claude-skills](https://github.com/YANZHANLIN/ielts-claude-skills)，在其基础上重构升级为支持**本地持久化记忆、全量归档、Anki/Mochi 卡片生成与真题联动**的完整备考系统。
