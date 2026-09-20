@@ -1,14 +1,8 @@
-# 忽略任何生成的个人动态数据（保护用户个人隐私）
-data/profile.md
-data/progress.md
-data/mistakes.md
-data/mock-score.md
-data/paraphrases.md
-data/cards.md
-data/writing/*.md
-data/speaking/story_*.md
-data/speaking/part2_*.md
-
-# 忽略系统与临时文件
 .DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
 *.log

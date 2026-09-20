@@ -19,26 +19,23 @@
 
 ---
 
-## 目录结构
+## 目录结构（技能包纯净形态）
 
 ```text
-ielts-claude-skills/
-├── data/
-│   ├── profile.md              # 考生档案（目标总分/单项、考试日期、当前基线、倒计时）
-│   ├── progress.md             # 备考总进展看板与每日训练流水账（自动累计已练篇数、平均分）
-│   ├── mistakes.md             # 错题与易错陷阱复盘本（阅读逻辑陷阱、写作语法/逻辑硬伤）
-│   ├── cards.md                # Mochi / Anki 专用单行记忆卡片库（拼写、搭配、句型直接导入）
-│   ├── paraphrases.md          # 跨会话累计沉淀的雅思核心同义替换词库
-│   ├── mock-score.md           # 剑桥真题刷题进度明细表（听力与阅读正确率/用时）
-│   ├── writing/                # 历次写作批改全量归档 (YYYY-MM-DD_TaskX_topic.md)
-│   └── speaking/               # 口语万能故事与高分素材库
-├── ielts/                      # 主教练入口（状态读取、倒计时、战报复盘、智能路由）
+ielts-skills/
+├── ielts/                      # 主教练入口（档案初始化、倒计时、战报复盘、智能路由）
 ├── ielts-writing/              # 写作教练（四维评分、改写对比、自动落盘归档、生成 Anki 卡片）
 ├── ielts-reading/              # 阅读精读（逻辑拆解、同义替换提取、自动沉淀）
-├── ielts-speaking/             # 口语素材（5大万能故事、Part 3 追问预测、素材保存、生成口语卡片）
-├── README.md                   # 本说明文档
+├── ielts-speaking/             # 口语素材（5大万能故事、Part 3 预测、内置当季真题题库）
+│   └── resources/              # 内置当季最新雅思口语题库
+├── README.md                   # 安装指引与使用文档
 └── LICENSE                     # MIT License
 ```
+
+> **💡 关于数据持久化目录 `data/`（代码与状态彻底解耦）：**  
+> 本技能包采用**「纯技能插件包（Plugin Bundle）」**架构，仓库内**零内置个人数据**。  
+> 当你将技能安装至本地后，只需在**你的任意个人备考工作区**启动唤醒 `/ielts`，系统将自动在你当前工作区内初始化并维护专属的 `data/` 持久化资产目录（包含档案 `profile.md`、进度 `progress.md`、错题 `mistakes.md`、Anki 卡库 `cards.md` 等）。
+
 
 ---
 
