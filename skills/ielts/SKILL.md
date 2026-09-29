@@ -34,7 +34,6 @@ metadata:
 - `data/profile.md`：考生档案（目标总分/单项、考试日期、当前水平基线）
 - `data/progress.md`：备考总进展看板与历史训练流水账
 - `data/mock-score.md`：剑桥真题刷题明细表（听力/阅读做题得分与用时）
-- `data/cards.md`：Mochi / Anki 专用单行记忆卡片库（写作与口语高频错题、地道短语，直接导入复习）
 - `data/paraphrases.md`：高频同义替换词库
 - `data/mistakes.md`：高频错题与弱项本
 - `data/writing/`：历次写作批改完整报告归档
@@ -128,9 +127,9 @@ metadata:
 
 | 命令 | 功能 | 触发词 | 数据持久化动作 |
 |------|------|--------|----------------|
-| `/ielts-writing` | 写作四维批改 + 改写对比 + 审题 | 「批改作文」「帮我看看这篇」「审题」 | 归档至 `data/writing/`，追加流水至 `progress.md`，提炼词汇至 `paraphrases.md`，生成 Anki 卡片至 `cards.md` |
+| `/ielts-writing` | 写作四维批改 + 改写对比 + 审题 | 「批改作文」「帮我看看这篇」「审题」 | 归档至 `data/writing/`，追加流水至 `progress.md`，提炼词汇至 `paraphrases.md`，短板记录至 `mistakes.md` |
 | `/ielts-reading` | 同义替换 + T/F/NG + 段落结构 | 「分析阅读」「这道为什么错」「同义替换」 | 词汇追加至 `paraphrases.md`，错因至 `mistakes.md`，同步 `mock-score.md` |
-| `/ielts-speaking` | 话题分组 + 万能故事 + Part 3 预测 | 「口语素材」「话题分组」「万能故事」 | 归档至 `data/speaking/`，生成口语 Anki 卡片至 `cards.md` |
+| `/ielts-speaking` | 话题分组 + 万能故事 + Part 3 预测 | 「口语素材」「话题分组」「万能故事」 | 归档至 `data/speaking/`，更新看板流水至 `progress.md` |
 
 ---
 
