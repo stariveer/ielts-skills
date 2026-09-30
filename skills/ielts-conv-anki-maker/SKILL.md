@@ -36,6 +36,8 @@ description: 【对话Anki】提取对话历史中的雅思核心词汇、同义
 
 ## Output Constraints (Strict Compact Mode，严格遵守)
 
+> 💡 **全局规范对齐**：本技能输出严格遵循全局格式基线与纯净度规范 [`skills/STANDARDS.md`](file:///Users/xinghe/code/my-ielts-study/skills/STANDARDS.md)。
+
 1. **统一 Markdown 代码块输出**：所有卡片统一提取和输出，必须全部包含在同一个 Markdown 代码块 (`md ... `) 中，不要分成多个代码块。
 2. **单行格式与唯一分隔符**：采用 `正面 | 背面` 的单行格式。每张卡的题面与答案之间仅用一个竖线 (`|`) 隔开，内容中禁止出现多余的未转义竖线（如有并列或举例请用逗号或斜杠替代）。
 3. **行内无换行（严禁真实回车）**：一张卡片必须且只能占用绝对的一行，严禁在同一张卡片内部使用回车换行（Enter 或 \n）。背面的排版换行与段落间距必须统一使用 HTML 标签 `<br>` 或 `<br><br>`。

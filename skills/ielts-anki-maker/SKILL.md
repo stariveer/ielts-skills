@@ -41,6 +41,8 @@ description: 【词汇列表Anki】自动将用户提供的雅思词汇/词伙�
 
 ## Output Constraints (Strict Compact Mode)
 
+> 💡 **全局规范对齐**：本技能输出严格遵循全局格式基线与纯净度规范 [`skills/STANDARDS.md`](file:///Users/xinghe/code/my-ielts-study/skills/STANDARDS.md)。
+
 严格遵守以下输出限制：
 
 1. **统一代码块**：所有卡片必须全部包含在同一个 Markdown 代码块 (` ```md ... ``` `) 中。
