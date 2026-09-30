@@ -24,14 +24,14 @@
 
 ### 严格格式六要素
 
-| 规范要素                    | 严格要求                                                                                   | 避坑警示                                                                                          |
-| :-------------------------- | :----------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| **1. 统一代码块包裹**       | 必须且只能使用单个 Markdown 代码块（` ```md ... ``` `）包裹输出所有卡片。                  | 禁止代码块外夹杂任何问候语或解释文字。代码块第一行直接开始输出首张卡片。                          |
-| **2. 单行格式与唯一分隔符** | 采用 `正面                                                                                 | 背面`的单行格式。竖线`                                                                            | ` 是正面和背面的**唯一分隔符**。整张卡片全行必须且只能有【恰好一个】未转义竖线。 | 正反面内部如需列举、并列或举例，**一律使用逗号 `,` 或斜杠 `/` 代替**，严禁出现多余的 ` | `（避免 Anki 报 `Invalid Record Length` 字段错位错误）。严禁在卡片中使用 Markdown 表格。 |
-| **3. 行内严禁真实换行**     | 一张卡片必须且只能占用**绝对的一行**，严禁在同一张卡片内部使用真实回车换行（Enter/`\n`）。 | 背面所有排版换行与段落间距**必须统一使用 HTML 标签 `<br>` 或 `<br><br>`**。长文本必须单行拉到底。 |
-| **4. 卡片间绝对零空行**     | 每一行必须是一张有效的卡片。**绝对禁止在卡片与卡片之间输出任何空白行（Empty lines）**。    | 上一张卡片末尾换行后，下一行必须紧贴着下一张卡片，严禁连敲两次回车（`\n\n`）。                    |
-| **5. 填空符统一规范**       | 题干或搭配语境中的填空/挖空处，统一使用连续下划线 `___` 表示。                             | 统一采用 3 个下划线 `___`，保持辨识度一致。                                                       |
-| **6. 英式拼写统一**         | 针对雅思考试环境，卡片英文部分优先使用英式拼写（British English spelling）。               | 如：`colour`, `centre`, `analyse`, `programme`。                                                  |
+| 规范要素 | 严格要求 | 避坑警示 |
+| :--- | :--- | :--- |
+| **1. 统一代码块包裹** | 必须且只能使用单个 Markdown 代码块（` ```md ... ``` `）包裹输出所有卡片。 | 禁止代码块外夹杂任何问候语或解释文字。代码块第一行直接开始输出首张卡片。 |
+| **2. 单行格式与唯一分隔符** | 采用 `正面 \| 背面` 的单行格式。竖线 `\|` 是正面和背面的**唯一分隔符**。整张卡片全行必须且只能有【恰好一个】未转义竖线。 | 正反面内部如需列举、并列或举例，**一律使用逗号 `,` 或斜杠 `/` 代替**，严禁出现多余的 `\|`（避免 Anki 报 `Invalid Record Length` 字段错位错误）。严禁在卡片中使用 Markdown 表格。 |
+| **3. 行内严禁真实换行** | 一张卡片必须且只能占用**绝对的一行**，严禁在同一张卡片内部使用真实回车换行（Enter/`\n`）。 | 背面所有排版换行与段落间距**必须统一使用 HTML 标签 `<br>` 或 `<br><br>`**。长文本必须单行拉到底。 |
+| **4. 卡片间绝对零空行** | 每一行必须是一张有效的卡片。**绝对禁止在卡片与卡片之间输出任何空白行（Empty lines）**。 | 上一张卡片末尾换行后，下一行必须紧贴着下一张卡片，严禁连敲两次回车（`\n\n`）。 |
+| **5. 填空符统一规范** | 题干或搭配语境中的填空/挖空处，统一使用连续下划线 `___` 表示。 | 统一采用 3 个下划线 `___`，保持辨识度一致。 |
+| **6. 英式拼写统一** | 针对雅思考试环境，卡片英文部分优先使用英式拼写（British English spelling）。 | 如：`colour`, `centre`, `analyse`, `programme`。 |
 
 ---
 
@@ -40,15 +40,15 @@
 ### 示例 A：词汇/词伙卡片
 
 ```md
-remedy |/ˈrem.ə.di/ n. 补救办法，纠正方法<br><br>【真题搭配】a remedy for \_\_\_ (解决...的良方)<br>【近义替换】solution / cure / antidote<br>【典型例句】There is no simple remedy for the global energy crisis.
+remedy |/ˈrem.ə.di/ n. 补救办法，纠正方法<br><br>【真题搭配】a remedy for ___ (解决...的良方)<br>【近义替换】solution / cure / antidote<br>【典型例句】There is no simple remedy for the global energy crisis.
 take toll on |对...产生严重不良影响，造成重大损失<br><br>【核心考点】通常作动词词组：take a heavy toll on sth<br>【近义替换】cause severe damage to / have a negative impact on<br>【真题例句】Years of heavy smoking had taken its toll on his health.
 ```
 
 ### 示例 B：听力 Part 3/4 题目与长选项降维卡片
 
 ```md
-[C16T4L4 · Q31] An experiment on university students suggested that dance increases **_ .|正确答案：creativity<br><br>【3–5秒审题压缩】increases _** → [positive abstraction/ability?]<br>【审题重点】increases 后的宾语；锁定定位词 experiment on university students<br>【原文定位】Sentence 15: "The result showed that those who chose to dance showed much more creativity when doing problem-solving tasks."<br>【关键替换】increases → showed much more<br>【干扰逻辑】录音前文提到了 sit, listen, cycle，只有 chose to dance 对应的是 much more creativity，注意排除前面的前置干扰。<br>【训练重点】听懂长句主干，抓住 "showed much more" 这个表示增加的高频同义替换。
-[C16T4L4 · Q32] 1638 – The Dutch established a **_ on the island.|正确答案：colony / settlement<br><br>【3–5秒审题压缩】established a _** → [singular concrete/social noun]<br>【审题重点】时间路标 1638；主语 The Dutch；谓语 established<br>【原文定位】Sentence 7: "However, in 1638 the Dutch arrived and set up a colony there."<br>【关键替换】established → set up<br>【干扰逻辑】听到 1638 必须立刻警觉发令枪，set up 之后紧跟的词就是答案，切勿犹豫滞后。<br>【训练重点】速记动词短语同义替换：set up ↔ establish。
+[C16T4L4 · Q31] An experiment on university students suggested that dance increases ___ .|正确答案：creativity<br><br>【3–5秒审题压缩】increases ___ → [positive abstraction/ability?]<br>【审题重点】increases 后的宾语；锁定定位词 experiment on university students<br>【原文定位】Sentence 15: "The result showed that those who chose to dance showed much more creativity when doing problem-solving tasks."<br>【关键替换】increases → showed much more<br>【干扰逻辑】录音前文提到了 sit, listen, cycle，只有 chose to dance 对应的是 much more creativity，注意排除前面的前置干扰。<br>【训练重点】听懂长句主干，抓住 "showed much more" 这个表示增加的高频同义替换。
+[C16T4L4 · Q32] 1638 – The Dutch established a ___ on the island.|正确答案：colony / settlement<br><br>【3–5秒审题压缩】established a ___ → [singular concrete/social noun]<br>【审题重点】时间路标 1638；主语 The Dutch；谓语 established<br>【原文定位】Sentence 7: "However, in 1638 the Dutch arrived and set up a colony there."<br>【关键替换】established → set up<br>【干扰逻辑】听到 1638 必须立刻警觉发令枪，set up 之后紧跟的词就是答案，切勿犹豫滞后。<br>【训练重点】速记动词短语同义替换：set up ↔ establish。
 ```
 
 ---
