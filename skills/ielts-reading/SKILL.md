@@ -4,7 +4,7 @@ description: |
   雅思阅读精读教练（支持同义替换自动沉淀与错题归档）。同义替换提取 + T/F/NG 逻辑拆解 + 错题诊断 + 联动 data/mock-score.md 与 data/paraphrases.md。
   触发方式：/ielts-reading、「分析阅读」「这道为什么错」「同义替换」「阅读训练」
 metadata:
-  version: 2.0.0
+  version: 1.0.0
 ---
 
 # IELTS Reading — 雅思阅读精读教练

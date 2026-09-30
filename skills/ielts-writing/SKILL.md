@@ -4,7 +4,7 @@ description: |
   雅思写作批改教练（支持报告自动归档与数据持久化）。四维评分 + 句子级标注 + 改写对比 + 审题检查 + 自动落盘至 data/writing/。
   触发方式：/ielts-writing、「批改作文」「帮我看看这篇」「审题」「写作练习」
 metadata:
-  version: 2.0.0
+  version: 1.0.0
 ---
 
 # IELTS Writing — 雅思写作批改教练

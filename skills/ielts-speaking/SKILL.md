@@ -4,7 +4,7 @@ description: |
   雅思口语素材工厂（支持素材持久化归档）。话题分组 + 5大万能故事生成 + Part 3 追问预测 + 自动保存至 data/speaking/。
   触发方式：/ielts-speaking、「口语素材」「话题分组」「万能故事」「Part 2 准备」
 metadata:
-  version: 2.0.0
+  version: 1.0.0
 ---
 
 # IELTS Speaking — 雅思口语素材工厂

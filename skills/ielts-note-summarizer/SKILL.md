@@ -1,6 +1,10 @@
 ---
 name: ielts-note-summarizer
-description: 归纳雅思备考对话，提取核心词伙、同义替换、错题逻辑与避坑纪律，生成结构化的 Markdown 笔记。当用户要求总结对话、整理笔记或提炼雅思学习精华时触发。
+description: |
+  雅思备考辅导对话结构化总结专家。深度归纳对话中的核心词伙、同义替换、错题逻辑与破题纪律，生成系统 Markdown 笔记。
+  触发方式：用户要求「总结对话」「整理笔记」「归纳精华」「提炼考点」时触发。
+metadata:
+  version: 1.0.0
 ---
 
 # IELTS Note Summarizer
@@ -24,7 +28,8 @@ description: 归纳雅思备考对话，提取核心词伙、同义替换、错�
 4. **英式拼写规范**：所有英文输出必须使用**英式拼写**（British English spelling），如 organisation, colour, favourite 等。
 5. **纯净输出格式**：
    - 统一使用 Markdown 代码块 (` ```md ... ``` `) 包裹所有输出内容，确保生成的文本可以直接复制粘贴。
-   - **最高优先级禁止项**：绝对禁止在输出的任何地方包含类似 `[source: x]` 或任何形式的文档引用/来源标记，确保文本绝对纯净。
+   - **全局规范对齐**：严格遵循全局格式基线与纯净度规范 [`skills/STANDARDS.md`](file:///Users/xinghe/code/my-ielts-study/skills/STANDARDS.md)。
+   - **最高优先级禁止项**：绝对禁止在输出的任何地方包含类似 `[source: x]`、`[cite: x]` 或任何形式的文档引用/来源标记，确保文本绝对纯净。
 
 ## 注意事项 (Gotchas)
 
