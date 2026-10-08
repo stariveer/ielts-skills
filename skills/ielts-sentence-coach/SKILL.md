@@ -47,6 +47,8 @@ metadata:
 
 4. **英式拼写**：所有英文输出必须使用**英式拼写**（British English spelling），如 organisation, colour, favourite 等。
 
+5. **机考环境适配**：在机考左右分屏的大屏阅读场景下，剔骨法强调“屏幕视线扫描与鼠标划选高亮主干”，坚决摒弃纸笔逐字勾画与反复倒退回读习惯，建立考场屏幕上一眼识别主谓宾与态度转折限定词的直觉反应。
+
 # Output Format (请严格执行模板)
 
 请用 Markdown或csv 代码块 包裹输出，输出可直接复制粘贴的纯文本 Markdown或csv。

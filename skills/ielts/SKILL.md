@@ -33,7 +33,8 @@ metadata:
 所有备考资产均保存在本地 `data/` 目录下，跨会话读取与更新：
 - `data/profile.md`：考生档案（目标总分/单项、考试日期、当前水平基线）
 - `data/progress.md`：备考总进展看板与历史训练流水账
-- `data/mock-score.md`：剑桥真题刷题明细表（听力/阅读做题得分与用时）
+- `data/mock-score-listening.md`：剑桥听力真题刷题明细表与考试节奏
+- `data/mock-score-reading.md`：剑桥阅读真题刷题明细表（得分与用时）
 - `data/paraphrases.md`：高频同义替换词库
 - `data/mistakes.md`：高频错题与弱项本
 - `data/writing/`：历次写作批改完整报告归档
@@ -83,7 +84,7 @@ metadata:
 ### 场景 3：备考战报与复盘
 
 当用户说「查看进度」「备考复盘」「我的战报」「最近怎么样」时：
-1. 读取 `data/progress.md`、`data/mock-score.md`、`data/writing/` 和 `data/paraphrases.md`。
+1. 读取 `data/progress.md`、`data/mock-score-listening.md`、`data/mock-score-reading.md`、`data/writing/` 和 `data/paraphrases.md`。
 2. 汇总输出结构化文本报告：
    - 考期倒计时与总进度
    - 写作近期分数走势及高频失分维度（TR/CC/LR/GRA）
@@ -121,14 +122,24 @@ metadata:
 | 19-22 | 5.5 |
 | 15-18 | 5.0 |
 
+### 全局考试形式：100% 雅思机考（IELTS on Computer）
+
+- 本系统及所有子模块默认考生参与**雅思机考**；
+- **脱敏红线**：严禁出现任何纸笔考隐喻（如“铅笔圈出”、“卷面划线”、“最后10分钟誊写答题卡”、“试卷翻页”等）；
+- **实战基线**：所有建议与动线完全依托机考交互设计：
+  - **听力机考**：边听边直接在界面录入/选择，录音结束后**仅有 2 分钟倒计时检查（绝无 10 分钟誊写）**，通过点击屏幕底栏题号实现跨区秒跳与预读；
+  - **阅读机考**：左文右题**左右分屏联动**，使用**鼠标高亮 (Highlight)**，填空题支持从左侧文章原词**直接拖拽/复制进输入框**杜绝拼写错误，死盯正上方中央倒计时；
+  - **写作机考**：依靠屏幕下方**实时 Word Count** 控字数，利用复制粘贴快捷键调结构，因系统**无拼写波浪线纠错**，必须强制留 3-5 分钟屏上通读检查。
+
 ---
+
 
 ## 子 Skill 列表
 
 | 命令 | 功能 | 触发词 | 数据持久化动作 |
 |------|------|--------|----------------|
 | `/ielts-writing` | 写作四维批改 + 改写对比 + 审题 | 「批改作文」「帮我看看这篇」「审题」 | 归档至 `data/writing/`，追加流水至 `progress.md`，提炼词汇至 `paraphrases.md`，短板记录至 `mistakes.md` |
-| `/ielts-reading` | 同义替换 + T/F/NG + 段落结构 | 「分析阅读」「这道为什么错」「同义替换」 | 词汇追加至 `paraphrases.md`，错因至 `mistakes.md`，同步 `mock-score.md` |
+| `/ielts-reading` | 同义替换 + T/F/NG + 段落结构 | 「分析阅读」「这道为什么错」「同义替换」 | 词汇追加至 `paraphrases.md`，错因至 `mistakes.md`，同步 `mock-score-reading.md` |
 | `/ielts-speaking` | 话题分组 + 万能故事 + Part 3 预测 | 「口语素材」「话题分组」「万能故事」 | 归档至 `data/speaking/`，更新看板流水至 `progress.md` |
 
 ---

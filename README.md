@@ -55,7 +55,8 @@ ielts-skills/
 │   ├── progress.md                    # 进度看板与历史训练流水账
 │   ├── mistakes.md                    # 薄弱点与逻辑错题本
 │   ├── paraphrases.md                 # 高频同义替换库
-│   ├── mock-score.md                  # 剑桥真题模考成绩单
+│   ├── mock-score-listening.md        # 剑桥真题听力模考成绩单与节奏
+│   ├── mock-score-reading.md          # 剑桥真题阅读模考成绩单与用时
 │   ├── writing/                       # 历次写作批改报告全文归档
 │   ├── speaking/                      # 口语万能故事与当季题库
 │   ├── anki/                          # 导出的单行无空行 Anki CSV/TXT 制卡文件
