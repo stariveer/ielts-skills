@@ -1,4 +1,6 @@
 .DS_Store
+*.nosync
+*.icloud
 Thumbs.db
 *.swp
 *.swo

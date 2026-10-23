@@ -1,7 +1,28 @@
 # 2026 年 9-12 月雅思口语最新题库（完整精洗版）
 
-> **题库说明**：本题库根据 2026 年 9-12 月换题季最新真题（截止 9 月中旬）整理，去除全部广告与水印干扰，结构化清洗而成。
-> **适用范围**：2026 年 9 月 - 12 月全球雅思考生（含中国大陆考区与亚太/非大陆考区）。
+> **题库版本**：2026 年 9-12 月换题季终版（截止 10 月 10 日 17:33）  
+> **数据纯净度**：已完全剔除广告、推广二维码、页面杂质与水印，按雅思口语标准 Part 1/2/3 规范化结构整理。  
+> **适用考区**：中国大陆考区与非大陆/亚太考区全球雅思考生。
+
+---
+
+## 备考指南与换题季速查 (Preparation Guide)
+
+### 1. 备考策略建议
+- **万年老题 / 保留题**：稳定考查，提前准备好核心语料与话题故事，确保流利度。
+- **新题**：换题季高频考查点。重点演练新题题卡，若遇到小问变体，抓住 Topic 核心展开即可。
+- **串题与万能故事法**：口语切忌死记硬背 50+ 个答案，应准备 5 大万能故事进行多话题映射串联。
+
+### 2. 常见问题 Q&A
+- **Q1: 什么是口语换题季？**  
+  雅思每年在 1 月、5 月、9 月进行题库轮换，每次轮换约 40%-50% 的 Part 1 和 Part 2&3 话题。通常在换题月首场考试后两周内题库基本稳定。A 类（学术类）与 G 类（培训类）口语题库完全一致。
+- **Q2: 万年老题、保留题、新题有何区别？**  
+  - **万年老题**：常年必考的核心基础话题（如 Work or studies, Hometown, Home/accommodation 等）。  
+  - **保留题**：上个考季的新增题，在本考季继续保留考查。  
+  - **新题**：本考季全新出现或以往老题回库的话题。
+- **Q3: 大陆考区与非大陆考区题目差异？**  
+  - **大陆考区**：主要准备大陆地区新题 + 保留题 + 万年老题。  
+  - **非大陆考区（亚太/欧洲/中东等）**：除大陆题库外，建议补充关注非大陆考区专属新题。
 
 ---
 
@@ -9,16 +30,14 @@
 
 - [一、大陆地区新题](#一大陆地区新题)
   - [Part 1 9 月在考新题（11 道）](#part-1-9-月在考新题11-道)
-  - [Part 2&3 9 月在考新题（28 道）](#part-23-9-月在考新题28-道)
+  - [Part 2&3 9 月在考新题（29 道）](#part-23-9-月在考新题29-道)
 - [二、大陆地区保留题及万年老题](#二大陆地区保留题及万年老题)
-  - [Part 1 保留题（16 道）](#part-1-保留题16-道)
+  - [Part 1 保留题（17 道）](#part-1-保留题17-道)
   - [Part 1 万年老题（5 道）](#part-1-万年老题5-道)
-  - [Part 2&3 保留题（28 道）](#part-23-保留题28-道)
-- [三、非大陆地区新题及保留题](#三非大陆地区新题及保留题)
+  - [Part 2&3 保留题（27 道）](#part-23-保留题27-道)
+- [三、非大陆地区新题](#三非大陆地区新题)
   - [Part 1 9 月在考新题（6 道）](#part-1-9-月在考新题6-道)
-  - [Part 2&3 9 月在考新题（9 道）](#part-23-9-月在考新题9-道)
-  - [Part 1 保留题（8 道）](#part-1-保留题8-道)
-  - [Part 2&3 保留题（8 道）](#part-23-保留题8-道)
+  - [Part 2&3 9 月在考新题（6 道）](#part-23-9-月在考新题6-道)
 
 ---
 
@@ -91,15 +110,17 @@
 - Is it easy for you to remember people's names?
 
 #### 11. Opportunities
+- Do you often get new opportunities?
+- Do you like taking on new opportunities?
 - Should people try as many different things as they can?
 - Did you have any opportunities to take part in new activities as a child?
 
 ---
 
-### Part 2&3 9 月在考新题（28 道）
+### Part 2&3 9 月在考新题（29 道）
 
 #### 1. 对结果开心的重要决定
-**Topic:** Describe a time you made an important decision and were happy with the result.
+**Topic:** Describe a time you made an important decision and were happy with the result.  
 **You should say:**
 - What the decision was
 - Why you made the decision
@@ -115,7 +136,7 @@
 - How can we tell the difference between an important and an easy decision?
 
 #### 2. 做困难事情并成功的人
-**Topic:** Describe a person you know who did something difficult and was successful.
+**Topic:** Describe a person you know who did something difficult and was successful.  
 **You should say:**
 - Who this person is
 - What difficult thing this person did
@@ -131,7 +152,7 @@
 - Is it difficult to do business in today's world?
 
 #### 3. 快乐人士
-**Topic:** Describe a happy person you know.
+**Topic:** Describe a happy person you know.  
 **You should say:**
 - Who this person is
 - What he/she is like
@@ -147,7 +168,7 @@
 - Do you think doing a job that you like is more important than other things?
 
 #### 4. 看过的名人采访
-**Topic:** Describe a time you watched a famous person being interviewed.
+**Topic:** Describe a time you watched a famous person being interviewed.  
 **You should say:**
 - Who the famous person was
 - What the interview was about
@@ -163,7 +184,7 @@
 - What kinds of people are usually interviewed?
 
 #### 5. 有条理的人
-**Topic:** Describe a person you know who is very organized.
+**Topic:** Describe a person you know who is very organized.  
 **You should say:**
 - Who this person is
 - What this person usually does to stay organized
@@ -179,7 +200,7 @@
 - Why is it important for people to be organized?
 
 #### 6. 嘈杂地
-**Topic:** Describe a noisy place you have been to.
+**Topic:** Describe a noisy place you have been to.  
 **You should say:**
 - Where it is
 - When you went there
@@ -195,7 +216,7 @@
 - Do you think it is good for children to make noise?
 
 #### 7. 喜欢的城市自然之地
-**Topic:** Describe a natural place in your city that you enjoy visiting.
+**Topic:** Describe a natural place in your city that you enjoy visiting.  
 **You should say:**
 - Where it is
 - What it is like
@@ -212,7 +233,7 @@
 - What kind of people do you think enjoy being in nature?
 
 #### 8. 攒钱买特别物品
-**Topic:** Describe a time when you saved money to buy something special.
+**Topic:** Describe a time when you saved money to buy something special.  
 **You should say:**
 - What the special thing was
 - Why you wanted to buy it
@@ -228,7 +249,7 @@
 - Should schools teach children how to manage money from a young age?
 
 #### 9. 小时候学到的新技能
-**Topic:** Describe a new skill you learned when you were a child.
+**Topic:** Describe a new skill you learned when you were a child.  
 **You should say:**
 - What the skill was
 - Who taught you this skill
@@ -244,7 +265,7 @@
 - What skills should children learn before they go to school?
 
 #### 10. 喜欢拍照的人
-**Topic:** Describe a person you know who really likes taking photos.
+**Topic:** Describe a person you know who really likes taking photos.  
 **You should say:**
 - Who the person is
 - When and how you got to know him/her
@@ -260,7 +281,7 @@
 - When do people like taking photos?
 
 #### 11. 尊敬的比你年长的人
-**Topic:** Describe someone who is older than you that you admire.
+**Topic:** Describe someone who is older than you that you admire.  
 **You should say:**
 - Who this person is
 - How you knew this person
@@ -275,21 +296,8 @@
 - Has old people's life quality improved when compared to the past?
 - What can young and old people learn from each other?
 
-#### 12. 听不感兴趣的话
-**Topic:** Describe a time when someone talked about something you were not interested in but you kept listening.
-**You should say:**
-- Who the person was
-- What he/she talked about
-- Why you kept listening
-- And explain how you felt about the experience
-
-**Part 3:**
-- How can we tell if a listener is listening carefully?
-- What would happen if the listener didn't listen carefully?
-- What kind of topics do young people like to talk about today?
-
-#### 13. 好的购物服务
-**Topic:** Describe a time when you received good service in a shop/store/company.
+#### 12. 好的购物服务
+**Topic:** Describe a time when you received good service in a shop/store/company.  
 **You should say:**
 - Where the shop/store/company is
 - When you went to the shop/store/company
@@ -304,8 +312,8 @@
 - What are the advantages and disadvantages of shopping in small shops?
 - Why are shopping malls so popular in China?
 
-#### 14. 擅长做手工的人
-**Topic:** Describe a person who is good at making things by hand.
+#### 13. 擅长做手工的人
+**Topic:** Describe a person who is good at making things by hand.  
 **You should say:**
 - Who this person is
 - What he/she makes
@@ -320,8 +328,8 @@
 - Why do some children enjoy making things by hand?
 - Do you think art classes are important for children?
 
-#### 15. 和朋友度过的愉快夜晚
-**Topic:** Describe an enjoyable evening you had with your friends.
+#### 14. 和朋友度过的愉快夜晚
+**Topic:** Describe an enjoyable evening you had with your friends.  
 **You should say:**
 - When and where it was
 - What you did
@@ -332,12 +340,12 @@
 - Why do people need friends?
 - Do older people prefer spending time with family or with friends?
 - Do young people prefer spending time with family or with friends?
-- What are the differences between young people's leisure time activities and those of old people?
+- What are the differences between young people’s leisure time activities and those of old people?
 - What can we do to bring family members closer together?
 - How do people get along in a big family?
 
-#### 16. 浪费时间的活动
-**Topic:** Describe an activity you do regularly that you think is a waste of time.
+#### 15. 浪费时间的活动
+**Topic:** Describe an activity you do regularly that you think is a waste of time.  
 **You should say:**
 - What it is
 - When you usually do it
@@ -347,13 +355,13 @@
 **Part 3:**
 - Why do some people refuse to abide by rules?
 - What kinds of things make people feel pressured?
-- Will you continue doing something when you are aware that it's a waste of time?
+- Will you continue doing something when you are aware that it’s a waste of time?
 - How do you balance life and work?
 - Is it good to have a daily routine?
 - Do you think stress is important in people's lives?
 
-#### 17. 拥挤地方
-**Topic:** Describe a crowded place you went to.
+#### 16. 拥挤地方
+**Topic:** Describe a crowded place you went to.  
 **You should say:**
 - Where it was
 - When you went there
@@ -368,8 +376,8 @@
 - Will there be more or less green space in cities in the future?
 - Which cities are overcrowded in your country?
 
-#### 18. 学习并喜欢历史的人
-**Topic:** Describe a person who learns history and loves history.
+#### 17. 学习并喜欢历史的人
+**Topic:** Describe a person who learns history and loves history.  
 **You should say:**
 - Who this person is
 - How he/she learns history
@@ -384,8 +392,8 @@
 - At what age do you think people should begin to learn history?
 - Do you think children should begin learning history from an early age?
 
-#### 19. 教你新技能的人
-**Topic:** Describe a person who taught you a new skill.
+#### 18. 教你新技能的人
+**Topic:** Describe a person who taught you a new skill.  
 **You should say:**
 - Who this person was
 - What the skill was
@@ -400,24 +408,24 @@
 - Where can children learn new skills?
 - Why should children learn new skills?
 
-#### 20. 不喜欢的电影
-**Topic:** Describe a movie/film you don't like.
+#### 19. 不喜欢的电影
+**Topic:** Describe a movie/film you don’t like.  
 **You should say:**
 - When you watched it
 - Where you watched it
 - What it was about
-- And explain why don't like it
+- And explain why you don't like it
 
 **Part 3:**
-- Do people's movie preferences change as they get older?
+- Do people’s movie preferences change as they get older?
 - Should documentary films be completely truthful?
 - Can movies help people better understand the cultural background of a country?
 - Are movies more likely to help people become more creative than books?
 - What are the differences between watching movies at home and in a cinema?
 - What kinds of movies are the most popular in China?
 
-#### 21. 不喜欢的短途旅行
-**Topic:** Describe a short trip you often take but do not like.
+#### 20. 不喜欢的短途旅行
+**Topic:** Describe a short trip you often take but do not like.  
 **You should say:**
 - Where you go
 - When you go there
@@ -432,8 +440,8 @@
 - Who prefers travelling abroad? The young or the old?
 - Do Chinese people like travelling abroad?
 
-#### 22. 受欢迎的人
-**Topic:** Describe a popular person.
+#### 21. 受欢迎的人
+**Topic:** Describe a popular person.  
 **You should say:**
 - Who this person is
 - What kind of person he or she is
@@ -448,8 +456,8 @@
 - Is it important for a teacher to be popular?
 - Why are some students popular in school?
 
-#### 23. 钦佩的运动员
-**Topic:** Describe a successful sportsperson you admire.
+#### 22. 钦佩的运动员
+**Topic:** Describe a successful sportsperson you admire.  
 **You should say:**
 - Who he/she is
 - What you know about him/her
@@ -459,13 +467,13 @@
 **Part 3:**
 - Why are there so few top athletes?
 - What is the most popular sport in your country?
-- Is it easy to identify children's talents?
+- Is it easy to identify children’s talents?
 - Is talent important in sports?
 - What qualities should an athlete have?
 - Should students have physical education and do sports at school?
 
-#### 24. 喜欢的公共建筑
-**Topic:** Describe a public building you enjoy visiting (e.g. a library, a shopping mall, etc.).
+#### 23. 喜欢的公共建筑
+**Topic:** Describe a public building you enjoy visiting (e.g. a library, a shopping mall, a sports hall, etc.).  
 **You should say:**
 - Where it is
 - How you knew it
@@ -473,12 +481,15 @@
 - And explain why you enjoy visiting it
 
 **Part 3:**
+- Why do people visit historic buildings?
+- Should modern buildings replace traditional buildings?
 - Is it better to live in an apartment than in a house?
-- Do you think all old buildings should be demolished?
-- Do you think old buildings are valuable?
+- Is it important to protect historic buildings? Why?
+- Why is it hard to protect historic buildings?
+- Why do some people prefer to live in the countryside?
 
-#### 25. 印象深刻的聚会
-**Topic:** Describe a party for a special event that impressed you a lot.
+#### 24. 印象深刻的聚会
+**Topic:** Describe a party for a special event that impressed you a lot.  
 **You should say:**
 - When and where it was held
 - What the party was held for
@@ -486,25 +497,30 @@
 - And explain why it impressed you a lot
 
 **Part 3:**
-- What special events are celebrated in your country?
-- Do most people prefer to hold a party in a restaurant or in a pub?
-- Do most people prefer to hold a party in a public place or a private place?
 - When do people like to hold a party?
+- Do you think people nowadays prefer attending big parties or small gatherings with close friends? Why?
+- Are there any differences between how young people and older people celebrate events with parties?
+- What special events are celebrated in your country?
+- Do you think it’s a waste of money for governments to celebrate national events?
+- What festivals are the most important for people in your country?
 
-#### 26. 帮别人提升健康
-**Topic:** Describe a person whose health and fitness you have helped to improve.
+#### 25. 有健康习惯和作息的人
+**Topic:** Describe a person you know who has healthy habits and a healthy daily routine.  
 **You should say:**
-- Who this person was
-- Why you helped him/her
-- How you helped him/her
-- And explain whether it was easy or difficult
+- Who this person is
+- How you got to know each other
+- What he/she does to keep this lifestyle
+- And explain how you feel about him/her
 
 **Part 3:**
+- Does the government play an important role in promoting healthy lifestyles in a community?
+- Do you think it is important to live in a community where people have healthy lifestyles?
+- How can people relieve stress in daily life?
 - What effect does stress have on health?
 - Which group pays more attention to health, young people or old people?
 
-#### 27. 读起来开心的书
-**Topic:** Describe a book you read that made you happy.
+#### 26. 读起来开心的书
+**Topic:** Describe a book you enjoyed reading and that made you happy.  
 **You should say:**
 - What kind of book it was
 - What it was about
@@ -512,12 +528,15 @@
 - And explain why it made you happy
 
 **Part 3:**
-- Are success books useful to everyone?
-- Do you think people should read the original book before watching the movie?
 - What kinds of books are popular in China?
+- Do you think people should read the original book before watching the movie?
+- Are success books useful to everyone?
+- Do you think people today read less than before? Why?
+- Why do some people prefer watching movies to reading books?
+- How can parents help children develop a love of reading?
 
-#### 28. 帮助他人
-**Topic:** Describe a time when you helped someone.
+#### 27. 帮助他人
+**Topic:** Describe a time when you helped someone.  
 **You should say:**
 - Where you helped him/her
 - Why you helped
@@ -532,11 +551,39 @@
 - What kind of advice should parents give to their children?
 - Should parents help their kids with their homework?
 
+#### 28. 听不感兴趣的话
+**Topic:** Describe a time when someone talked about something you were not interested in but you kept listening.  
+**You should say:**
+- Who the person was
+- What he/she talked about
+- Why you kept listening
+- And explain how you felt about the experience
+
+**Part 3:**
+- What kind of topics do young people like to talk about today?
+- What would happen if the listener didn’t listen carefully?
+- How can we tell if a listener is listening carefully?
+- How can a teacher tell if students are listening in class?
+- What do you think about talking with people who have different opinions?
+- Do most young people in your country like to talk with elderly people?
+
+#### 29. 不会用的科技产品
+**Topic:** Describe a piece of technology that you didn’t know how to use (e.g. a computer, a smartphone, etc.).  
+**You should say:**
+- What it was
+- Why you didn’t know how to use it
+- Whether you learned to use it at last
+- And explain how you felt about it
+
+**Part 3:**
+- Are there any disadvantages of using technology?
+- Do you think it is good to use technology in education?
+
 ---
 
 ## 二、大陆地区保留题及万年老题
 
-### Part 1 保留题（16 道）
+### Part 1 保留题（17 道）
 
 #### 1. Music
 - Do you prefer sad or happy music?
@@ -564,6 +611,8 @@
 - Did you keep your room tidy as a child?
 - How do you keep your work or study space tidy?
 - Do you think that it is necessary to be tidy?
+- Do you think there are people who can always stay tidy?
+- What do you think of the people who are not very tidy?
 
 #### 5. Websites
 - What kinds of websites do you often visit?
@@ -654,6 +703,13 @@
 - In what conditions would you not use headphones?
 - Is wearing headphones comfortable?
 
+#### 17. Morning time
+- Do you spend your mornings doing the same things on both weekends and weekdays? Why?
+- Are there any differences between what you do in the morning now and what you did in the past?
+- What did you do in the morning when you were little? Why?
+- What do you usually do in the morning?
+- Do you like getting up early in the morning?
+
 ---
 
 ### Part 1 万年老题（5 道）
@@ -690,7 +746,7 @@
 - What part of your home do you like the most?
 - How long have you lived there?
 - Do you plan to live there for a long time?
-- What's the difference between where you are living now and where you have lived in the past?
+- What’s the difference between where you are living now and where you have lived in the past?
 - Can you describe the place where you live?
 - What room does your family spend most of the time in?
 - What's your favorite room in your apartment or house?
@@ -742,10 +798,10 @@
 
 ---
 
-### Part 2&3 保留题（28 道）
+### Part 2&3 保留题（27 道）
 
 #### 1. 喜欢或不喜欢的高建筑
-**Topic:** Describe a tall building you like or dislike.
+**Topic:** Describe a tall building you like or dislike.  
 **You should say:**
 - What it is used for
 - Where it is
@@ -761,7 +817,7 @@
 - What kind of interior design style do most people like?
 
 #### 2. 有趣视频
-**Topic:** Describe an interesting video.
+**Topic:** Describe an interesting video.  
 **You should say:**
 - When and where you watched it
 - What it is about
@@ -777,7 +833,7 @@
 - What makes a video go viral online?
 
 #### 3. 去过的无聊地方
-**Topic:** Describe a boring place.
+**Topic:** Describe a boring place.  
 **You should say:**
 - Where it is
 - Who you went there with
@@ -786,14 +842,14 @@
 
 **Part 3:**
 - Why do most children think education is boring?
-- Why aren't young people willing to listen to the experiences of older people?
+- Why aren’t young people willing to listen to the experiences of older people?
 - What can people do when they feel bored?
-- Why are some teachers' classes boring? Are there any solutions?
+- Why are some teachers’ classes boring? Are there any solutions?
 - Why do some young people feel bored when talking with old people?
 - Do most people think news about celebrities is boring?
 
 #### 4. 早起经历
-**Topic:** Describe a time when you got up early.
+**Topic:** Describe a time when you got up early.  
 **You should say:**
 - When it was
 - What you did
@@ -809,7 +865,7 @@
 - What kind of people like getting up early?
 
 #### 5. 喜欢在家/花园种菜的人
-**Topic:** Describe a person who loves to grow plants (e.g. vegetables, flowers) at home or in the garden.
+**Topic:** Describe a person who loves to grow plants (e.g. vegetables, flowers) at home or in the garden.  
 **You should say:**
 - Who this person is
 - What plants he/she grows
@@ -825,7 +881,7 @@
 - Do you think students should learn to grow plant?
 
 #### 6. 想颁布的新法律
-**Topic:** Describe a new law you would like to introduce in your country.
+**Topic:** Describe a new law you would like to introduce in your country.  
 **You should say:**
 - What law it is
 - What changes this law brings
@@ -842,7 +898,7 @@
 - How can parents teach children to obey rules?
 
 #### 7. 发小
-**Topic:** Describe a friend from your childhood.
+**Topic:** Describe a friend from your childhood.  
 **You should say:**
 - Who he/she is
 - Where and how you met each other
@@ -858,7 +914,7 @@
 - Has technology changed people's friendships? How?
 
 #### 8. 想从事医疗行业的人
-**Topic:** Describe a person you know who would like to choose a career in the medical field (e.g. a doctor, a nurse).
+**Topic:** Describe a person you know who would like to choose a career in the medical field (e.g. a doctor, a nurse).  
 **You should say:**
 - When you knew him/her
 - When he/she started to think about that
@@ -870,11 +926,11 @@
 - Do you think learning biology is interesting for children?
 - Why do some children want to become doctors?
 - Do you think governments should put a large amount of money into medical research?
-- Why is some doctors' pay high and others' low?
+- Why is some doctors’ pay high and others’ low?
 - Do you think doctors should be paid more?
 
 #### 9. 拥有成功商业的人
-**Topic:** Describe a person you know who has a successful business.
+**Topic:** Describe a person you know who has a successful business.  
 **You should say:**
 - Who this person is
 - How you got to know him/her
@@ -891,7 +947,7 @@
 - Is it easy to set up a new business in your country?
 
 #### 10. 近期改变的计划
-**Topic:** Describe a plan that you had to change recently.
+**Topic:** Describe a plan that you had to change recently.  
 **You should say:**
 - When this happened
 - What made you change the plan
@@ -907,7 +963,7 @@
 - Do you think people like the process of making plans more, or the moment of carrying them out?
 
 #### 11. 在团队中工作
-**Topic:** Describe a time when you worked in a group.
+**Topic:** Describe a time when you worked in a group.  
 **You should say:**
 - What you did
 - Who you worked with
@@ -923,7 +979,7 @@
 - How can you tell if a person is a good leader?
 
 #### 12. 重要决定
-**Topic:** Describe an important decision that you made.
+**Topic:** Describe an important decision that you made.  
 **You should say:**
 - What the decision was
 - How you made your decision
@@ -939,7 +995,7 @@
 - How do people usually make important decisions?
 
 #### 13. 喜欢的现场体育赛事
-**Topic:** Describe a live sports event you watched and liked.
+**Topic:** Describe a live sports event you watched and liked.  
 **You should say:**
 - What it was
 - When and where you watched it
@@ -955,7 +1011,7 @@
 - What sports games are popular in your country?
 
 #### 14. 特别场合的食物
-**Topic:** Describe a food that people eat on special occasions/events.
+**Topic:** Describe a food that people eat on special occasions/events.  
 **You should say:**
 - What it is
 - What the special event/occasion is
@@ -969,7 +1025,7 @@
 - Do people today prefer eating at home or in a restaurant?
 
 #### 15. 擅长学习和说语言的人
-**Topic:** Describe a person who is good at learning and speaking new languages.
+**Topic:** Describe a person who is good at learning and speaking new languages.  
 **You should say:**
 - How you got to know him/her
 - How he/she learns a new language
@@ -985,7 +1041,7 @@
 - What is the most important thing for learning a language well?
 
 #### 16. 遇到的科技问题
-**Topic:** Describe a challenging technological problem you faced.
+**Topic:** Describe a challenging technological problem you faced.  
 **You should say:**
 - What the problem was
 - When and where you faced it
@@ -1001,7 +1057,7 @@
 - What can teachers do to stop students from relying too much on AI?
 
 #### 17. 名人出演的广告
-**Topic:** Describe an advertisement with a famous person in it.
+**Topic:** Describe an advertisement with a famous person in it.  
 **You should say:**
 - Who the person is
 - Where you can see it
@@ -1017,7 +1073,7 @@
 - Which is more effective, online advertising or offline advertising?
 
 #### 18. 推荐旅行过的地方
-**Topic:** Describe a place you have travelled to that you would like to recommend to others.
+**Topic:** Describe a place you have travelled to that you would like to recommend to others.  
 **You should say:**
 - What it is
 - Where it is
@@ -1033,7 +1089,7 @@
 - How do people decide when to travel?
 
 #### 19. 喜欢拜访但不想住的家
-**Topic:** Describe a home that you like to visit but do not want to live in.
+**Topic:** Describe a home that you like to visit but do not want to live in.  
 **You should say:**
 - Where it is
 - What it is like
@@ -1041,7 +1097,7 @@
 - And explain why you would not like to live there
 
 **Part 3:**
-- Do Chinese people like to visit others' homes?
+- Do Chinese people like to visit others’ homes?
 - What do Chinese people do when they visit others?
 - What kind of place do people in your country like to live in?
 - What's the difference between homes in cities and those in the countryside?
@@ -1049,7 +1105,7 @@
 - How often do you visit your relatives or friends?
 
 #### 20. 包含动物的故事或书
-**Topic:** Describe a story/book with animals in it.
+**Topic:** Describe a story/book with animals in it.  
 **You should say:**
 - What animals are in it
 - What the story/book is about
@@ -1064,24 +1120,8 @@
 - What are the advantages of keeping a pet?
 - Why do people always tell children stories with animals?
 
-#### 21. 机智解决问题的人
-**Topic:** Describe a person who solved a problem in a smart way.
-**You should say:**
-- Who this person is
-- What the problem was
-- How he/she solved it
-- And explain why you think he/she did it in a smart way
-
-**Part 3:**
-- Do you think smart children are happier than other children?
-- Is it important for schools to identify and develop each student's talents?
-- Do you think children are born smart or they learn to become smart?
-- How do children become smart at school?
-- Why are some people well-rounded and others only good at one thing?
-- Why does modern society need talents of all kinds?
-
-#### 22. 保护环境的法律
-**Topic:** Describe a law on environmental protection.
+#### 21. 保护环境的法律
+**Topic:** Describe a law on environmental protection.  
 **You should say:**
 - What it is
 - How you first learned about it
@@ -1096,8 +1136,8 @@
 - What are the rules people should obey at work?
 - What is the purpose of punishment?
 
-#### 23. 很久没收到回复的信息
-**Topic:** Describe a time when you sent a message or an email to someone but received no reply for a long time.
+#### 22. 很久没收到回复的信息
+**Topic:** Describe a time when you sent a message or an email to someone but received no reply for a long time.  
 **You should say:**
 - Who you sent it to
 - What the message/email was about
@@ -1105,15 +1145,15 @@
 - And explain how you felt about the experience
 
 **Part 3:**
-- In what situations do people spend a long time responding to others' messages?
+- In what situations do people spend a long time responding to others’ messages?
 - In what situations do people not respond to messages at all?
 - What would you do if you did not receive a reply after sending out a message?
 - Why do some people prefer sending a message instead of making a call?
 - How do you show your respect in your messages?
-- Why do some people feel angry when others don't reply to their message?
+- Why do some people feel angry when others don’t reply to their message?
 
-#### 24. 长久目标/抱负
-**Topic:** Describe a long-term goal/ambition you would like to achieve.
+#### 23. 长久目标/抱负
+**Topic:** Describe a long-term goal/ambition you would like to achieve.  
 **You should say:**
 - How long you have had this goal/ambition
 - What it is
@@ -1128,8 +1168,8 @@
 - Do you think it is necessary to be ambitious when working in a team in a company?
 - Should parents support their children in pursuing their ambitions?
 
-#### 25. 改变重要想法
-**Topic:** Describe a time when you changed an important opinion of yours.
+#### 24. 改变重要想法
+**Topic:** Describe a time when you changed an important opinion of yours.  
 **You should say:**
 - When you changed your opinion
 - What the original opinion was
@@ -1142,8 +1182,8 @@
 - Do children communicate more with teachers or with parents?
 - Who do young people like to share opinions with?
 
-#### 26. 想要颁布的环保法律
-**Topic:** Describe an environmental law you would like your country to introduce.
+#### 25. 想要颁布的环保法律
+**Topic:** Describe an environmental law you would like your country to introduce.  
 **You should say:**
 - What law it should be
 - Why people should follow the law
@@ -1156,8 +1196,8 @@
 - Will there be a law that is universally accepted?
 - What environmental laws does your country already have?
 
-#### 27. 当地新闻
-**Topic:** Describe a piece of local news that people are interested in.
+#### 26. 当地新闻
+**Topic:** Describe a piece of local news that people are interested in.  
 **You should say:**
 - What it was about
 - Where you saw/heard it
@@ -1170,8 +1210,8 @@
 - Do you think it's important to have a national identity?
 - How can people develop their national identity?
 
-#### 28. 近期改变
-**Topic:** Describe a change that you made recently.
+#### 27. 近期改变
+**Topic:** Describe a change that you made recently.  
 **You should say:**
 - What the change was
 - What caused the change
@@ -1179,7 +1219,7 @@
 - And explain how you feel about the change
 
 **Part 3:**
-- Do you think it is good to change one's daily routine?
+- Do you think it is good to change one’s daily routine?
 - Do you think it is good to change jobs?
 - Is it good for people to get a job promotion?
 - Do people often make plans around their regular routines?
@@ -1187,7 +1227,7 @@
 
 ---
 
-## 三、非大陆地区新题及保留题
+## 三、非大陆地区新题
 
 ### Part 1 9 月在考新题（6 道）
 
@@ -1236,10 +1276,10 @@
 
 ---
 
-### Part 2&3 9 月在考新题（9 道）
+### Part 2&3 9 月在考新题（6 道）
 
 #### 1. 印象深刻的课程
-**Topic:** Describe a course that impressed you a lot.
+**Topic:** Describe a course that impressed you a lot.  
 **You should say:**
 - What the course was about
 - Where you took the course
@@ -1254,31 +1294,8 @@
 - Do people like things of memorial significance?
 - Why do some people have a better memory than others?
 
-#### 2. 改变重要决定
-**Topic:** Describe a time when you changed an important decision of yours.
-**You should say:**
-- When you changed the decision
-- What the original decision was
-- Why you changed it
-- And explain how you felt about the experience
-
-**Part 3:**
-- When do most children begin to make their own decisions?
-
-#### 3. 本地名人
-**Topic:** Describe a famous person in your local area.
-**You should say:**
-- Who this person is
-- What he/she has done
-- Why he/she is popular
-- And explain how you feel about this person
-
-**Part 3:**
-- Why are some students popular?
-- Is it always good to be a popular student at school?
-
-#### 4. 想再去一次的城市
-**Topic:** Describe a city that you have been to and would like to visit again.
+#### 2. 想再去一次的城市
+**Topic:** Describe a city that you have been to and would like to visit again.  
 **You should say:**
 - When you visited it
 - What you did there
@@ -1293,8 +1310,8 @@
 - Some people say large cities are suitable for old people. What do you think?
 - What's the difference between the city and the countryside?
 
-#### 5. 一见且想继续了解的人
-**Topic:** Describe a person you only met once recently and want to know more about.
+#### 3. 一见且想继续了解的人
+**Topic:** Describe a person you only met once recently and want to know more about.  
 **You should say:**
 - Who he/she is
 - When you met him/her
@@ -1309,8 +1326,8 @@
 - On what occasions do people like to make friends?
 - How do people make friends in China?
 
-#### 6. 送朋友的礼物
-**Topic:** Describe a gift you would like to buy for your friend.
+#### 4. 送朋友的礼物
+**Topic:** Describe a gift you would like to buy for your friend.  
 **You should say:**
 - How you knew your friend
 - How long you have known him/her
@@ -1319,26 +1336,14 @@
 
 **Part 3:**
 - Are there any unlucky things that people should not buy as gifts in your country?
+- What do people usually consider when buying gifts?
 - Which do people give on traditional festivals, red envelopes or other kinds of gifts?
 - Will people feel happy when receiving an expensive gift?
 - Is it hard to choose a gift?
 - When do people normally send gifts to others?
 
-#### 7. 去过的靠近自然的地方
-**Topic:** Describe somewhere near a natural place that you have been to.
-**You should say:**
-- Where this place is
-- Who you went there with
-- Why you went there
-- And explain how you feel about the place
-
-**Part 3:**
-- Are there any natural attractions that are great to visit?
-- Do you think it is necessary to include natural spaces in a city?
-- Do you think people who live in natural places are more likely to protect it?
-
-#### 8. 公共场所丢物品
-**Topic:** Describe an occasion that you lost something in public.
+#### 5. 公共场所丢物品
+**Topic:** Describe an occasion that you lost something in public.  
 **You should say:**
 - What you lost
 - When and where you lost it
@@ -1353,8 +1358,8 @@
 - What will people do when losing things?
 - What kinds of things do people usually lose?
 
-#### 9. 节约时间的方法/改变
-**Topic:** Describe a way/change that helps you save a lot of time.
+#### 6. 节约时间的方法/改变
+**Topic:** Describe a way/change that helps you save a lot of time.  
 **You should say:**
 - What it is
 - How you implement it
@@ -1368,187 +1373,3 @@
 - Do people who can manage time well become successful more easily?
 - Is it necessary for children to learn time management?
 - What can schools do to help students learn time management?
-
----
-
-### Part 1 保留题（8 道）
-
-#### 1. Dream and ambition
-- What was your childhood dream?
-- Are you the kind of person who sticks to dreams?
-- What is your dream job?
-- Do you think you are an ambitious person?
-
-#### 2. History
-- Have you ever been to historical museums?
-- Do you like history?
-- When was the last time you read about history?
-- Did you like history when you were young?
-
-#### 3. Films/cinemas
-- What films do you like?
-- Did you often watch films when you were a child?
-- Did you ever go to the cinema alone as a child?
-- Do you often go to the cinema with your friends?
-- Do you think going to the cinema is a good way to spend time with friends?
-- How often do you watch films?
-- Do you prefer to watch films at home or in the cinema?
-
-#### 4. Old buildings
-- Have you ever seen old buildings in the city?
-- Do you think we should preserve old buildings in cities?
-- Do you prefer living in an old building or a modern house?
-- Are there any old buildings you want to see in the future? Why?
-
-#### 5. Evening time
-- Do you like the morning or evening?
-- What do you usually do in the evening?
-- What did you do in the evening when you were little? Why?
-- Are there any differences between what you do in the evening now and what you did in the past?
-- Do you spend your evenings doing the same things on both weekends and weekdays? Why?
-- What do you hate doing in the evening?
-
-#### 6. Morning routines
-- What do you do right after getting up in the morning?
-- Is breakfast important?
-- What is your morning routine?
-- Do you like to get up early in the morning?
-
-#### 7. Sports programs
-- Do you like watching sports programs on TV?
-- Do you like to watch live sports games?
-- Who do you like to watch sports games with?
-- What kinds of games do you expect to watch in the future?
-- Do you prefer to watch sports games alone or with a group of friends?
-- Have you ever watched a sports game in a stadium?
-
-#### 8. Art
-- Do you like art?
-- Do you like visiting art galleries?
-- Do you want to be an artist?
-- Do you like modern art or traditional art?
-
----
-
-### Part 2&3 保留题（8 道）
-
-#### 1. 想有空时去旅游的地方
-**Topic:** Describe a place you would like to visit in your free time.
-**You should say:**
-- Where it is
-- What you will do there
-- How long you will stay there
-- And explain why you would like to visit it
-
-**Part 3:**
-- Why do you think some people choose not to travel abroad?
-- Do you think a gap period in life is important?
-
-#### 2. 收到特殊蛋糕
-**Topic:** Describe a special cake you received from others.
-**You should say:**
-- When it happened
-- Where it happened
-- Who you got the cake from
-- And explain why it's a special cake
-
-**Part 3:**
-- What are the differences between special food in China and other countries?
-- Is there any food in your country that is eaten at special times or on special occasions?
-- Why are some people willing to spend a lot of money on meals on special days?
-- Do you think it's good to communicate when eating with your family?
-- In your country, do people nowadays cook at home as frequently as people did in the past?
-- What do you think of people using their mobile phones during a meal?
-
-#### 3. 在成功公司工作的人
-**Topic:** Describe a person who works in a successful company.
-**You should say:**
-- Who he/she is
-- What he/she does in the company
-- What business the company does
-- And explain why you think it is a successful company
-
-**Part 3:**
-- Do you think governments should provide financial support to companies?
-- Do you think companies should donate money to help society?
-- Do you think customer satisfaction is important for a company?
-
-#### 4. 语言学习
-**Topic:** Describe a thing you did to learn another language.
-**You should say:**
-- What language you learned
-- What you did
-- How it helped you learn the language
-- And how you felt about it
-
-**Part 3:**
-- What difficulties do people face when learning a language?
-- Do you think language learning is important? Why?
-- Which is better, to study a language alone or to study it in a group? Why?
-- What's the best way to learn a language?
-- What are the advantages and disadvantages of learning a language?
-- Some people think that technology has made it unnecessary to learn languages. What do you think?
-
-#### 5. 重要河流/湖泊
-**Topic:** Describe an important river/lake in your country.
-**You should say:**
-- Where it is located
-- How big/long it is
-- What it looks like
-- And explain why it is important
-
-**Part 3:**
-- Are rivers and lakes important to a country?
-- What are the popular water sports in your country?
-- Are rivers and lakes good for transport? Why?
-- How do rivers and lakes affect local tourism?
-- Do you think rivers and lakes attract tourists?
-- How can rivers and lakes benefit local people?
-
-#### 6. 花费甚少的外出日
-**Topic:** Describe a special day out that cost you little money/didn't cost you much.
-**You should say:**
-- When the day was
-- Where you went
-- How much you spent
-- And explain how you feel about the day
-
-**Part 3:**
-- Do people like to spend their leisure time out in your country?
-- How do people spend their leisure time in your country?
-- How does technology affect the way people spend their leisure time?
-- Do you think only old people have time for leisure?
-- Why do people like to have days off?
-- Going out to have holidays is tiring. Why do people still want to do it?
-
-#### 7. 组织快乐活动
-**Topic:** Describe a time when you organized a happy event successfully.
-**You should say:**
-- What the event was
-- How you prepared for it
-- Who helped you to organize it
-- And explain why you think it was a successful event
-
-**Part 3:**
-- How can parents help children to be organized?
-- On what occasions do people need to be organized?
-- Does everything need to be well prepared?
-- Do people need others' help when organizing things?
-- How would you feel when you were not well prepared for something?
-- Do you prefer to prepare and organize an activity or just take part in an activity?
-
-#### 8. 交通拥堵
-**Topic:** Describe a time when you were stuck in a traffic jam for a very long time.
-**You should say:**
-- When it happened
-- Where you were stuck
-- What you did while waiting
-- And explain how you felt in the traffic jam
-
-**Part 3:**
-- How can we solve the traffic jam problem?
-- Do you think developing public transport can solve traffic jam problems?
-- Do you think the high ways will help reduce traffic jams?
-- What are good ways to manage traffic?
-- Do you like to use public transport?
-- Would you rather be in a car or a bus in a traffic jam?

@@ -31,7 +31,7 @@ metadata:
 
 ## Strict Output Format (CRITICAL)
 
-> 💡 **全局规范对齐**：本技能输出严格遵循全局格式基线与纯净度规范 [`skills/STANDARDS.md`](file:///Users/xinghe/code/my-ielts-study/skills/STANDARDS.md)。
+> 💡 **全局规范对齐**：本技能输出严格遵循全局格式基线与纯净度规范 [`skills/STANDARDS.md`](../STANDARDS.md)。
 
 1. **Markdown Code Block**: 必须且只能用 ` ```md ... ``` ` 包裹输出所有卡片。首尾无多余空行。
 2. **Single Pipe Separator**: 整张卡片全行必须且只能有【恰好一个】竖线 `|` 分隔正面与背面！内部列举一律用斜杠 `/` 或逗号 `,`，绝对禁止多余的 `|`（避免 Anki 导入报错）。

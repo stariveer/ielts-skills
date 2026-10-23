@@ -52,7 +52,7 @@ metadata:
 
 ## 严格输出格式规范 (Strict Output Formatting Rules)
 
-> 💡 **全局规范对齐**：本技能输出严格遵循全局格式基线与纯净度规范 [`skills/STANDARDS.md`](file:///Users/xinghe/code/my-ielts-study/skills/STANDARDS.md)。
+> 💡 **全局规范对齐**：本技能输出严格遵循全局格式基线与纯净度规范 [`skills/STANDARDS.md`](../STANDARDS.md)。
 
 1. **统一 Markdown 代码块包裹**：必须且只能使用单个 Markdown 代码块（` ```md ... ``` `）包裹输出所有卡片。代码块首尾禁止多余空行，代码块第一行直接开始输出首张卡片。
 2. **单行格式与唯一分隔符**：采用 `正面 | 背面` 的单行格式。**整张卡片全行必须且只能有【恰好一个】竖线 `|` 作为正面与背面的唯一分隔符！正反面内部的所有列举、选项、对比，一律使用斜杠 `/` 或逗号 `,` 代替，绝对禁止出现任何多余的未转义竖线 `|`（避免导入 Anki 报 Invalid Record Length 字段错位错误）！**

@@ -28,7 +28,7 @@ metadata:
 4. **英式拼写规范**：所有英文输出必须使用**英式拼写**（British English spelling），如 organisation, colour, favourite 等。
 5. **纯净输出格式**：
    - 统一使用 Markdown 代码块 (` ```md ... ``` `) 包裹所有输出内容，确保生成的文本可以直接复制粘贴。
-   - **全局规范对齐**：严格遵循全局格式基线与纯净度规范 [`skills/STANDARDS.md`](file:///Users/xinghe/code/my-ielts-study/skills/STANDARDS.md)。
+   - **全局规范对齐**：严格遵循全局格式基线与纯净度规范 [`skills/STANDARDS.md`](../STANDARDS.md)。
    - **最高优先级禁止项**：绝对禁止在输出的任何地方包含类似 `[source: x]`、`[cite: x]` 或任何形式的文档引用/来源标记，确保文本绝对纯净。
 
 ## 注意事项 (Gotchas)

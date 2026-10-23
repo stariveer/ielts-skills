@@ -99,7 +99,7 @@ metadata:
 
 ## 输出要求
 
-> 💡 **全局规范对齐**：本技能输出严格遵循全局格式基线与纯净度规范 [`skills/STANDARDS.md`](file:///Users/xinghe/code/my-ielts-study/skills/STANDARDS.md)。
+> 💡 **全局规范对齐**：本技能输出严格遵循全局格式基线与纯净度规范 [`skills/STANDARDS.md`](../STANDARDS.md)。
 
 1.  **统一代码块输出**：用 Markdown 代码块包裹，输出可直接复制粘贴的纯文本 Markdown，不要有任何额外说明或寒暄。
 2.  **最高优先级禁止项**：绝对禁止在输出的任何地方包含任何形式的文档引用/来源标记。输出必须是没有任何脚标的纯净文本。
